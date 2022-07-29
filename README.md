@@ -8,6 +8,13 @@
 [![Software License](https://img.shields.io/badge/license-ISC-551a8b.svg)](https://raw.githubusercontent.com/ctubio/Krypto-trading-bot/master/LICENSE)
 [![Software License](https://img.shields.io/badge/license-MIT-551a8b.svg)](https://raw.githubusercontent.com/ctubio/Krypto-trading-bot/master/COPYING)
 
+
+
+
+
+
+
+
 [`K`](https://github.com/ctubio/Krypto-trading-bot) is a family of (very customizable) very low latency [market making](https://github.com/ctubio/Krypto-trading-bot/blob/master/doc/MANUAL.md#what-is-market-making) trading bots with a fully featured [web interface](https://github.com/ctubio/Krypto-trading-bot#web-ui).<br />It can place and cancel orders on one of the several [compatible exchanges](https://github.com/ctubio/Krypto-trading-bot#compatible-exchanges) in less than a few milliseconds per order on a decent machine.
 
 If you don't want to configure or hardcode your own trading strategies in your own machine,<br />you can run strategies from someone else at [kryll.io](https://kryll.io/) (or at any other trading community out there).
